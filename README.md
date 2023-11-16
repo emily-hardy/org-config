@@ -1,6 +1,10 @@
 <p align="center">
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+</p>
+
+<p align="center">
 <h1>osTicket - Example Configuration for Organization</h1>
-This provides an example configuration of the open-source help desk ticketing system osTicket.<br />
+I created and configured a ticketing system for a ficticious organization using the open-source help desk ticketing system, osTicket. In the next repository, " .<br />
 
 <h2>Environments and Technologies Used</h2>
 
