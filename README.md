@@ -4,7 +4,7 @@
 
 <p align="center">
 <h1>osTicket - Example Configuration for Organization</h1>
-I created and configured a ticketing system for a ficticious organization using the open-source help desk ticketing system, osTicket. In the next repository, " .<br />
+I created and configured a ticketing system for a ficticious organization using the open-source help desk ticketing system, osTicket. In the next repository, "osTicket: Example," I use the system to service a user-submitted ticket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
