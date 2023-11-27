@@ -11,7 +11,7 @@ I created and configured a ticketing system for a ficticious organization using 
 - Microsoft Azure (Virtual Machines)
 - Remote Desktop 
 - Internet Information Services (IIS)
-- SQL & Heidi SQL (to run osTicket)
+- SQL (to run osTicket)
 - osTicket (open source ticketing system)
 
 <h2>Operating Systems Used </h2>
