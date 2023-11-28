@@ -4,7 +4,7 @@
 
 <p align="center">
 <h1>osTicket - Example Configuration for Organization</h1>
-**Objective:** I created and configured a ticketing system for a ficticious organization using the open-source help desk ticketing system, osTicket. In the next repository, "osTicket: Example Service Ticket," I use the system to service a user-submitted ticket.<br />
+<i>I created and configured a ticketing system for a ficticious organization using the open-source help desk ticketing system, osTicket. In the next repository, "osTicket: Example Service Ticket," I use the system to service a user-submitted ticket.</i><br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -15,18 +15,17 @@
 - osTicket (open source ticketing system)
 
 <h2>Operating Systems Used </h2>
+Windows 10 (21H2)
 
-- Windows 10</b> (21H2)
 
-  <br />
+<h2>Overview of Steps</h2>
+<p>1. creating the virtual machine</p>
+<p>2. installing osTicket on the virtual machine</p>
+<p>3. configuring the portal</p>
+<br />
 
-<h2>Configuration Steps</h2>
-<p>Overview of Steps:
-1. creating the virtual machine
-2. installing osTicket on the virtual machine
-3. configuring the portal
-</p>
-
+<h1>Configuration</h1>
+<br />
 <p>-Creating a Windows 10 virtual machine on Azure:</p>
 <a href="https://imgur.com/HnN0EOS"><img src="https://i.imgur.com/HnN0EOS.png" title="source: imgur.com" /></a>
 <br />
